@@ -25,7 +25,6 @@
 
 ### Tech Stack <a name="tech-stack"></a>
 
-<details>
 - Languages: Ruby
 - Frameworks: N/A
 - Technologies Used: GIT, GITHUB, LINTERS
